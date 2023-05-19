@@ -1,2 +1,2 @@
 # Simple Credit Section
- A simple section to show my beginning progress of learning web development.
+A straightforward segment demonstrating my early learning of web programming.
